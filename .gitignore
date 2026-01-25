@@ -5,4 +5,4 @@
 *.sst
 *.wal
 /tmp/
-
+.DS_Store
